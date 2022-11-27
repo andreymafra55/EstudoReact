@@ -1,5 +1,6 @@
 # EstudoReact
-*Componentes
-*Estados
-*Propriedades
-*Estilização
+
+* Componentes
+* Estados
+* Propriedades
+* Estilização
